@@ -1,2 +1,3 @@
 # Demo-1
-First repo
+First repo of my project.
+Author Atul Bhatt 
