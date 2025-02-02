@@ -1,3 +1,3 @@
 # Demo-1
-First repo of my project.
+This project is just for testing the Git features
 Author Atul Bhatt 
